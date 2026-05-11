@@ -1,0 +1,128 @@
+.body {
+    Font-size: 18px
+}
+
+.primeiraimg {
+
+    justify-content: center;
+    
+    opacity: 0.7;
+}
+.logoverde {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100px;
+}
+
+.comeco {
+    display: flex;
+    justify-content: start;
+    
+    position: absolute;
+}
+
+#lk {
+    display: flex;
+     height: 452px;
+    width: 700px;
+    padding: 2px;
+    font-size: 18px;
+
+}
+
+.computer{
+    margin-left: -50px;
+    display: flex;
+    justify-content: baseline;
+}
+.cinzaesc3 {
+    color: hsl(210, 10%, 33%);
+    font-size: 18px;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    
+}
+
+.imagemceltab {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+
+
+
+.black {
+font-size: 18px;
+color: hsl(210, 10%, 33%);
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+
+}
+.blackescuro{
+    font-size: 18px;
+    color:hsl(210, 10%, 33%);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 22%;
+
+}
+.blackclaro {
+    font-size: 18px;
+    color:hsl(201, 11%, 66%);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 17%;
+  
+}
+
+.cinzaesc8 {
+    color: hsl(210, 10%, 33%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+
+.cinzaclaro8 {
+    color: hsl(201, 11%, 66%);
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+    font-size: 18px;
+
+}
+
+.sneakesc {
+    color: hsl(210, 10%, 33%);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 18px;
+    padding-right:  20%;
+}
+
+.sneakclaro {
+        color: hsl(201, 11%, 66%);
+    display: flex;
+    justify-content: flex-end;
+
+    align-items: center;
+    font-size: 18px;
+    padding-right: 15%;
+   
+}
+
+.imagensvari {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center
+}
